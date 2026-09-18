@@ -9,7 +9,7 @@
 | ID | 事项 | 状态 | 计划日期 | 截止日期 | 来源 / 关联 |
 | --- | --- | --- | --- | --- | --- |
 | T-20260918-01 | 学习app：用 Codex app server 建立经典 Chat UI，支持模型选择、强度选择 slider、图片上传 | 待办 | — | — | [需求](notes/学习app/README.md#前端需求) · [原话](sources/2026/09/2026-09-18-002-learning-app.md) |
-| T-20260918-02 | 学习app：改进 UI，折叠不常用内容，紧凑布局适配横屏平板；bottom bar/right bar 根据可用空间展开 | 待办 | — | — | [布局需求与待澄清原文](notes/学习app/README.md#ui-与布局需求) · [原话](sources/2026/09/2026-09-18-002-learning-app.md) |
+| T-20260918-02 | 学习app：改进 UI，折叠不常用内容，紧凑布局适配横屏平板；bottom bar/right bar 空间不足时以 drawer 展开，充足时在文档流内占据空间展开 | 待办 | — | — | [布局需求](notes/学习app/README.md#ui-与布局需求) · [原话](sources/2026/09/2026-09-18-002-learning-app.md) |
 
 ## 已结束
 
