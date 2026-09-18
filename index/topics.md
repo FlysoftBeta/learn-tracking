@@ -5,7 +5,7 @@
 | 主题 | 别名 / 搜索词 | 正文入口 | 用途 |
 | --- | --- | --- | --- |
 | 外置记忆项目 | 外置记忆系统、memory as a project、记录流程、信息架构、上下文质量 | [外置记忆项目](../notes/外置记忆项目/README.md) | 维护本仓库的记忆系统 |
-| 学习app | Termux、Rust daemon、Codex app server、Chat UI、文件编辑、终端、横屏平板、布局、抽屉、面板 | [学习app 专页](../notes/学习app/README.md) | 查找 app 进度、前端与布局需求及关联待办 |
+| 学习app | housekeeper、launcher、Termux、Rust daemon、Codex app server、Chat UI、文件工作区、文档阅读器、智学网、内置浏览器、横屏平板、布局、抽屉、面板 | [学习app 专页](../notes/学习app/README.md) | 查找 app 定位、功能、工程进度、前端与布局需求及关联待办 |
 | 高考答题 | 步骤分、公式、简单题、考试得分、评分 | [高考答题](../notes/高考答题.md) | 查找答题与得分提醒 |
 | 齐次化 | 数学、定点、曲线、常数项 | [齐次化](../notes/数学/齐次化.md) | 查找齐次化的使用观察 |
 
