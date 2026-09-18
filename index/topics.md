@@ -5,6 +5,7 @@
 | 主题 | 别名 / 搜索词 | 正文入口 | 用途 |
 | --- | --- | --- | --- |
 | 外置记忆系统 | memory as a project、记录流程、信息架构 | [架构](../docs/architecture.md) · [Agent 工作流](../AGENTS.md) | 维护本项目 |
+| 学习app | Termux、Rust daemon、Codex app server、Chat UI、文件编辑、终端、横屏平板 | [学习app 专页](../notes/学习app/README.md) | 查找 app 进度、前端与布局需求及关联待办 |
 
 日常入口：[待办](../TASKS.md) · [每日记录](../journal/README.md) · [想法与知识](../notes/README.md) · [原始资料](../sources/README.md)。
 
